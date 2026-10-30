@@ -1,0 +1,6 @@
+{
+  "watch": ["*.ts"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "ts-node-dev --respawn --transpile-only app.ts"
+}
